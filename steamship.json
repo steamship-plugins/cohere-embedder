@@ -32,11 +32,11 @@
     "runPath": "/run"
   },
   "steamshipRegistry": {
-    "tagline": "Embed text with OpenAI.",
-    "tagline2": "Over 16 models available for text search, text similarity and code search.",
+    "tagline": "Embed text with Cohere.",
+    "tagline2": "Three models available for text search and text similarity.",
     "usefulFor": "Useful for anyone implementing a semantic search index over snippets of code or text.",
     "videoUrl": null,
-    "githubUrl": "https://github.com/steamship-plugins/openai-embedder",
+    "githubUrl": "https://github.com/steamship-plugins/cohere-embedder",
     "demoUrl": null,
     "blogUrl": null,
     "jupyterUrl": null,
@@ -50,8 +50,6 @@
       "Semantic Search",
       "Code Search",
       "Copilot",
-      "OpenAI",
-      "GPT-3"
-    ]
+      "Cohere"    ]
   }
 }
